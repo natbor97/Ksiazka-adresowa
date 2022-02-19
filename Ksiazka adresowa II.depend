@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1645017598 source:c:\users\micha\desktop\programowanie\ksiazka adresowa ii\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<conio.h>
+	<vector>
+	<windows.h>
+

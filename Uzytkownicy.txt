@@ -1,0 +1,4 @@
+1|Asia|Asia|
+2|Marta|Marta|
+3|Ola|Ola|
+4|Piotr|Piotr|

@@ -1,0 +1,6 @@
+1|3|A|A|A|A|A|
+3|3|C|C|C|C|C|
+4|1|X|X|X|X|X|
+5|1|Y|Y|Y|Y|Y|
+6|1|Z|Z|Z|Z|Z|
+8|4|Baltazar|W|W|W|W|
